@@ -25,7 +25,7 @@ Ever had to standardize addresses in a dataset? It’s a pain, right? This scrip
 
 ## How to Use It 🚀
 
-1. Clone the repo: git clone https://github.com/yourusername/street-type-converter.git cd street-type-converter
+1. Clone the repo: git clone [https://github.com/yourusername/street-type-converter.git cd street-type-converter](https://github.com/obyman98/Aus-Street-Abv.git)
 2. Install the required packages (if you haven’t already): pip install pandas
 3. Run the script: python street_type_conversion.py
 4. Follow the prompt to choose your conversion type and let the script do the rest!

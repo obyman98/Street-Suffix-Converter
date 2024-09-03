@@ -6,7 +6,7 @@ Welcome to the **Street Type Converter** repo! 🎉 This project is all about ma
 
 - **Python Script**: A Python script that does all the heavy lifting. It reads a CSV file, converts street types in the `Name` column either to their abbreviations or full names, and adds a new column with the results.
 - **Street Types CSV**: A handy CSV file (`australian_street_types.csv`) listing all the street types and their abbreviations used in Australia.
-- **Sample File**: A sample CSV file (`large_file.csv`) with 6000 rows (okay, maybe not literally 6000, but you get the idea 😉) to show you how the conversion works in real-life scenarios.
+- **Sample File**: A sample CSV file (`addresses.csv`) with 6000 rows (okay, maybe not literally 6000, but you get the idea 😉) to show you how the conversion works in real-life scenarios.
 
 ## How It Works 🔧
 

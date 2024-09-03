@@ -10,9 +10,14 @@ Welcome to the **Street Type Converter** repo! 🎉 This project is all about ma
 
 ## How It Works 🔧
 
-1. **Choose Your Conversion**: Run the script and choose whether you want to convert full street names to abbreviations or the other way around.
-2. **Magic Happens**: The script reads your CSV, does the conversion, and adds a new column called `Converted_Name` with the updated values.
-3. **Done!**: Your CSV now has a new column with the converted street names. The original `Name` column stays untouched, so no worries about messing anything up.
+1. **Make Necessary Changes**: 
+   - Open the script and update the initializations if necessary:
+     - `filename` should be set to the name of your CSV file.
+     - `column` should be set to the column name in your file that contains the addresses (default is `'Addresses'`).
+     - `newcolumn` should be set to the desired name for the new column that will store the converted addresses (default is `'Converted Addresses'`).
+2. **Choose Your Conversion**: Run the script and choose whether you want to convert full street names to abbreviations or the other way around.
+3. **Magic Happens**: The script reads your CSV, does the conversion, and adds a new column with the updated values.
+3. **Done!**: Your CSV now has a new column with the converted street names. The original column stays untouched, so no worries about messing anything up.
 
 ## Why This Exists? 🤔
 
